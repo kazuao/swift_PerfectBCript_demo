@@ -1,0 +1,16 @@
+PODS:
+  - BCrypt (1.0.0)
+
+DEPENDENCIES:
+  - BCrypt
+
+SPEC REPOS:
+  trunk:
+    - BCrypt
+
+SPEC CHECKSUMS:
+  BCrypt: 712b656110e5020d319c547e4d8f3053ded82b2a
+
+PODFILE CHECKSUM: 2fbf5b4abd81bbbd97d19e483fe73ee1c22e9477
+
+COCOAPODS: 1.10.1
